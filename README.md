@@ -1,40 +1,66 @@
 <h1 align="center">Hi 👋, I'm Shivam Raj</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-raj12&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-raj12" /> </p>
+---
 
+# About Me
 
-As a **self-learner**, I’ve dived deep into programming languages like **Python**, **C++**, **Java**, and **Kotlin**. Right now, I’m focused on **Android development** with **Jetpack Compose**, where I enjoy creating user-friendly and engaging applications. I love taking on new challenges, and I’m always looking for ways to improve and learn more in this fast-paced tech world. Collaborating on projects that make a difference is what drives me.
+As a **self-learner**, I’ve dived deep into programming languages like **Python**, **C++**, **Java**, and **Kotlin**. Right now, I’m focused on **Android development** with **Jetpack Compose**, where I enjoy creating user-friendly and engaging mobile applications.
 
+I’m passionate about exploring new technologies and staying updated with the latest trends in mobile app development. I love taking on new challenges, and I’m always looking for ways to improve and learn more in this fast-paced tech world. 
+
+Collaborating on projects that make a difference and leveraging innovative solutions to enhance user experiences is what drives me.
+
+---
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Note App](https://github.com/shivam-raj12/Note-App)
 
-- 🌱 I’m currently learning **TypeScript, Node.JS**
+- 🌱 I’m currently learning **JavaScript, TypeScript, Node.JS**
 
 - 👯 I’m looking to collaborate on [Doggies](https://github.com/shivam-raj12/Doggies)
 
 - ❓ Ask me about anything related to **Jetpack Compose, Android Development, and other Languages and Technologies.**
 
 </td></tr></table>  
-  
-<!---
-shivam-raj12/shivam-raj12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/star098123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="star098123" height="30" width="40" /></a>
-</p>
 
 <br/>  
 
+# Skills and Technologies
 
-## Skills & Technologies
+## Languages
+| ![Kotlin](https://skillicons.dev/icons?i=kotlin) | ![Java](https://skillicons.dev/icons?i=java) | ![Python](https://skillicons.dev/icons?i=py) | ![C++](https://skillicons.dev/icons?i=cpp) |
+|:---:|:---:|:---:|:---:|
+| Kotlin | Java | Python | C++ |
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,git,github,firebase,appwrite,supabase,c,cpp,py,flask,arduino,mysql,postgres,latex,figma,materialui,nodejs,js,ts,ktor&perline=8)](https://skillicons.dev)
+## Tools
+| ![Android Studio](https://skillicons.dev/icons?i=androidstudio) | ![Figma](https://skillicons.dev/icons?i=figma) | ![GitHub](https://skillicons.dev/icons?i=github) | ![Git](https://skillicons.dev/icons?i=git) | ![Postman](https://skillicons.dev/icons?i=postman) |
+|:---:|:---:|:---:|:---:|:---:|
+| Android Studio | Figma | GitHub | Git | Postman |
+
+## Backend Services
+| ![Firebase](https://skillicons.dev/icons?i=firebase) | ![Supabase](https://skillicons.dev/icons?i=supabase) | ![Appwrite](https://skillicons.dev/icons?i=appwrite) |
+|:---:|:---:|:---:|
+| Firebase | Supabase | Appwrite |
+
+## Databases
+| ![MySQL](https://skillicons.dev/icons?i=mysql) | ![SQLite](https://skillicons.dev/icons?i=sqlite) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) |
+|:---:|:---:|:---:|:---:|
+| MySQL | SQLite | PostgreSQL | MongoDB |
+
+## Frameworks
+| ![Ktor](https://skillicons.dev/icons?i=ktor) | ![Material UI](https://skillicons.dev/icons?i=materialui) | ![Flask](https://skillicons.dev/icons?i=flask) |
+|:---:|:---:|:---:|
+| Ktor | Material UI | Flask |
+
+## Other Skills
+| ![Arduino](https://skillicons.dev/icons?i=arduino) | ![LaTeX](https://skillicons.dev/icons?i=latex) |
+|:---:|:---:|
+| Arduino | LaTeX |
+
+
 
 <br/>
 
@@ -43,5 +69,9 @@ You can click the Preview link to take a look at your changes.
 [![**Doggies**](https://github-readme-stats.vercel.app/api/pin/?username=shivam-raj12&repo=Doggies)](https://github.com/shivam-raj12/Doggies)
 [![**Love-Percentage-Calculator**](https://github-readme-stats.vercel.app/api/pin/?username=shivam-raj12&repo=Love-Percentage-Calculator)](https://github.com/shivam-raj12/Love-Percentage-Calculator)
 
-## Languages
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-raj12&show_icons=true&locale=en&layout=compact" alt="shivam-raj12" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/star098123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+  <a href="mailto:shivam1209raj@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/gmail/gmail.svg" alt="email" height="30" width="40" /></a>
+</p>
