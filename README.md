@@ -38,10 +38,5 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-## Top Projects
-[![**Note-App**](https://github-readme-stats.vercel.app/api/pin/?username=shivam-raj12&repo=Note-App)](https://github.com/shivam-raj12/Note-App)
-[![**Doggies**](https://github-readme-stats.vercel.app/api/pin/?username=shivam-raj12&repo=Doggies)](https://github.com/shivam-raj12/Doggies)
-[![**Love-Percentage-Calculator**](https://github-readme-stats.vercel.app/api/pin/?username=shivam-raj12&repo=Love-Percentage-Calculator)](https://github.com/shivam-raj12/Love-Percentage-Calculator)
-
 ## Languages
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-raj12&show_icons=true&locale=en&layout=compact" alt="shivam-raj12" /></p>
