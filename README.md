@@ -34,9 +34,14 @@ You can click the Preview link to take a look at your changes.
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,git,github,firebase,appwrite,supabase,c,cpp,py,flask,arduino,mysql,postgres,latex,figma,materialui,nodejs,js,ts,vscode,pycharm,clion,idea,ktor&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,git,github,firebase,appwrite,supabase,c,cpp,py,flask,arduino,mysql,postgres,latex,figma,materialui,nodejs,js,ts,ktor&perline=8)](https://skillicons.dev)
 
 <br/>
+
+## Top Projects
+[![**Note-App**](https://github-readme-stats.vercel.app/api/pin/?username=shivam-raj12&repo=Note-App)](https://github.com/shivam-raj12/Note-App)
+[![**Doggies**](https://github-readme-stats.vercel.app/api/pin/?username=shivam-raj12&repo=Doggies)](https://github.com/shivam-raj12/Doggies)
+[![**Love-Percentage-Calculator**](https://github-readme-stats.vercel.app/api/pin/?username=shivam-raj12&repo=Love-Percentage-Calculator)](https://github.com/shivam-raj12/Love-Percentage-Calculator)
 
 ## Languages
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-raj12&show_icons=true&locale=en&layout=compact" alt="shivam-raj12" /></p>
