@@ -3,15 +3,45 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-raj12&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-raj12" /> </p>
 
-- 🤵 I am an Android developer passionate about building awesome apps with Jetpack Compose.
-- 🌱 I started coding with Python, and I've since taught myself C++, Java, and Kotlin, always eager to tackle new challenges and improve my skills. 
-- 🚀 Right now, I'm diving into the latest trends in Android development, focusing on Jetpack Compose to create modern and user-friendly interfaces.
-- 💻 I love learning and collaborating on exciting projects! 
 
+As a **self-learner**, I’ve dived deep into programming languages like **Python**, **C++**, **Java**, and **Kotlin**. Right now, I’m focused on **Android development** with **Jetpack Compose**, where I enjoy creating user-friendly and engaging applications. I love taking on new challenges, and I’m always looking for ways to improve and learn more in this fast-paced tech world. Collaborating on projects that make a difference is what drives me.
+
+
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
+
+- 🔭 I’m currently working on [Note App](https://github.com/shivam-raj12/Note-App)
+
+- 🌱 I’m currently learning **TypeScript, Node.JS**
+
+- 👯 I’m looking to collaborate on [Doggies](https://github.com/shivam-raj12/Doggies)
+
+- ❓ Ask me about anything related to **Jetpack Compose, Android Development, and other Languages and Technologies.**
+
+</td></tr></table>  
+  
 <!---
 shivam-raj12/shivam-raj12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/star098123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="star098123" height="30" width="40" /></a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<br/>  
+
+
+## Skills & Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,git,github,firebase,appwrite,supabase,c,cpp,py,flask,arduino,mysql,postgres,latex,figma,materialui,nodejs,js,ts,vscode,pycharm,clion,idea,ktor&perline=8)](https://skillicons.dev)
+
+<br/>
+
+## Top Projects
+[![**Note-App**](https://github-readme-stats.vercel.app/api/pin/?username=shivam-raj12&repo=Note-App)](https://github.com/shivam-raj12/Note-App)
+[![**Doggies**](https://github-readme-stats.vercel.app/api/pin/?username=shivam-raj12&repo=Doggies)](https://github.com/shivam-raj12/Doggies)
+[![**Love-Percentage-Calculator**](https://github-readme-stats.vercel.app/api/pin/?username=shivam-raj12&repo=Love-Percentage-Calculator)](https://github.com/shivam-raj12/Love-Percentage-Calculator)
+
+## Languages
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-raj12&show_icons=true&locale=en&layout=compact" alt="shivam-raj12" /></p>
