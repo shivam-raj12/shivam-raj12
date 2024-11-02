@@ -22,7 +22,7 @@ Collaborating on projects that make a difference and leveraging innovative solut
 
 - 👯 I’m looking to collaborate on [Doggies](https://github.com/shivam-raj12/Doggies)
 
-- ❓ Ask me about anything related to **Jetpack Compose, Android Development, and other Languages and Technologies.**
+- ❓ Ask me about anything related to **Jetpack Compose, Android Development, and other Languages and Technologies.** [Contact Me](#connect-with-me)
 
 </td></tr></table>  
 
