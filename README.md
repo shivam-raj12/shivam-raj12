@@ -65,13 +65,28 @@ Collaborating on projects that make a difference and leveraging innovative solut
 <br/>
 
 ## Top Projects
-[![**Note-App**](https://github-readme-stats.vercel.app/api/pin/?username=shivam-raj12&repo=Note-App)](https://github.com/shivam-raj12/Note-App)
-[![**Doggies**](https://github-readme-stats.vercel.app/api/pin/?username=shivam-raj12&repo=Doggies)](https://github.com/shivam-raj12/Doggies)
-[![**Love-Percentage-Calculator**](https://github-readme-stats.vercel.app/api/pin/?username=shivam-raj12&repo=Love-Percentage-Calculator)](https://github.com/shivam-raj12/Love-Percentage-Calculator)
+[![**Note-App**](https://github-readme-stats.vercel.app/api/pin/?username=shivam-raj12&repo=Note-App&theme=yeblu)](https://github.com/shivam-raj12/Note-App)
+[![**Doggies**](https://github-readme-stats.vercel.app/api/pin/?username=shivam-raj12&repo=Doggies&theme=yeblu)](https://github.com/shivam-raj12/Doggies)
+[![**Love-Percentage-Calculator**](https://github-readme-stats.vercel.app/api/pin/?username=shivam-raj12&repo=Love-Percentage-Calculator&theme=yeblu)](https://github.com/shivam-raj12/Love-Percentage-Calculator)
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/star098123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-  <a href="mailto:shivam1209raj@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/gmail/gmail.svg" alt="email" height="30" width="40" /></a>
-</p>
+## Connect with me:
+
+<table>
+  <tr>
+    <td>
+      <a href="mailto:shivam1209raj@gmail.com" target="blank">
+        <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/gmail/gmail.svg" alt="email" height="30" width="40" />
+      </a>
+    </td>
+    <td>shivam1209raj@gmail.com</td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://instagram.com/star098123" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+      </a>
+    </td>
+    <td>star098123</td>
+  </tr>
+</table>
