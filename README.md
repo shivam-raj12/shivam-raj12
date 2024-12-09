@@ -5,7 +5,7 @@
 
 # About Me
 
-As a **self-learner**, I’ve dived deep into programming languages like **Python**, **C++**, **Java**, and **Kotlin**. Right now, I’m focused on **Android development** with **Jetpack Compose**, where I enjoy creating user-friendly and engaging mobile applications.
+As a **self-learner**, I’ve dived deep into programming languages like **Python**, **C++**, **Java**, and **Kotlin**. Right now, I’m completely focused on **Android development** with **Jetpack Compose**, where I enjoy creating user-friendly and engaging mobile applications.
 
 I’m passionate about exploring new technologies and staying updated with the latest trends in mobile app development. I love taking on new challenges, and I’m always looking for ways to improve and learn more in this fast-paced tech world. 
 
@@ -36,9 +36,9 @@ Collaborating on projects that make a difference and leveraging innovative solut
 | Kotlin | Java | Python | C++ |
 
 ## Tools
-| ![Android Studio](https://skillicons.dev/icons?i=androidstudio) | ![Figma](https://skillicons.dev/icons?i=figma) | ![GitHub](https://skillicons.dev/icons?i=github) | ![Git](https://skillicons.dev/icons?i=git) | ![Postman](https://skillicons.dev/icons?i=postman) |
-|:---:|:---:|:---:|:---:|:---:|
-| Android Studio | Figma | GitHub | Git | Postman |
+| ![Android Studio](https://skillicons.dev/icons?i=androidstudio) | ![Figma](https://skillicons.dev/icons?i=figma) | ![GitHub](https://skillicons.dev/icons?i=github) | ![Postman](https://skillicons.dev/icons?i=postman) |
+|:---:|:---:|:---:|:---:|
+| Android Studio | Figma | GitHub | Postman |
 
 ## Backend Services
 | ![Firebase](https://skillicons.dev/icons?i=firebase) | ![Supabase](https://skillicons.dev/icons?i=supabase) | ![Appwrite](https://skillicons.dev/icons?i=appwrite) |
@@ -56,9 +56,9 @@ Collaborating on projects that make a difference and leveraging innovative solut
 | Ktor | Material UI | Flask |
 
 ## Other Skills
-| ![Arduino](https://skillicons.dev/icons?i=arduino) | ![LaTeX](https://skillicons.dev/icons?i=latex) |
-|:---:|:---:|
-| Arduino | LaTeX |
+| ![Arduino](https://skillicons.dev/icons?i=arduino) |
+|:---:|
+| Arduino |
 
 
 
