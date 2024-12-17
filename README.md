@@ -64,12 +64,6 @@ Collaborating on projects that make a difference and leveraging innovative solut
 
 <br/>
 
-## Top Projects
-[![**Note-App**](https://github-readme-stats.vercel.app/api/pin/?username=shivam-raj12&repo=Note-App&theme=yeblu)](https://github.com/shivam-raj12/Note-App)
-[![**Doggies**](https://github-readme-stats.vercel.app/api/pin/?username=shivam-raj12&repo=Doggies&theme=yeblu)](https://github.com/shivam-raj12/Doggies)
-[![**Love-Percentage-Calculator**](https://github-readme-stats.vercel.app/api/pin/?username=shivam-raj12&repo=Love-Percentage-Calculator&theme=yeblu)](https://github.com/shivam-raj12/Love-Percentage-Calculator)
-
-
 ## Connect with me:
 
 <table>
