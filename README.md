@@ -51,9 +51,9 @@ Collaborating on projects that make a difference and leveraging innovative solut
 | MySQL | SQLite | PostgreSQL | MongoDB |
 
 ## Frameworks
-| ![Ktor](https://skillicons.dev/icons?i=ktor) | ![Material UI](https://skillicons.dev/icons?i=materialui) | ![Flask](https://skillicons.dev/icons?i=flask) |
-|:---:|:---:|:---:|
-| Ktor | Material UI | Flask |
+| ![Ktor](https://skillicons.dev/icons?i=ktor) | ![Material UI](https://skillicons.dev/icons?i=materialui) |
+|:---:|:---:|
+| Ktor | Material UI |
 
 ## Other Skills
 | ![Arduino](https://skillicons.dev/icons?i=arduino) |
