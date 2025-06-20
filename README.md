@@ -45,10 +45,12 @@ Collaborating on projects that make a difference and leveraging innovative solut
 |:---:|:---:|:---:|
 | Firebase | Supabase | Appwrite |
 
+<!--
 ## Databases
 | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![SQLite](https://skillicons.dev/icons?i=sqlite) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) |
 |:---:|:---:|:---:|:---:|
 | MySQL | SQLite | PostgreSQL | MongoDB |
+-->
 
 ## Frameworks
 | ![Ktor](https://skillicons.dev/icons?i=ktor) | ![Material UI](https://skillicons.dev/icons?i=materialui) |
@@ -70,7 +72,7 @@ Collaborating on projects that make a difference and leveraging innovative solut
   <tr>
     <td>
       <a href="mailto:shivam1209raj@gmail.com" target="blank">
-        <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/gmail/gmail.svg" alt="email" height="30" width="40" />
+        <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/technology/gmail/gmail.svg" alt="email" height="30" width="40" />
       </a>
     </td>
     <td>shivam1209raj@gmail.com</td>
