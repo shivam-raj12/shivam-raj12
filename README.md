@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Raj</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<h3 align="center">🌍 <a href="https://yourwebsite.com">Check out my website</a> 🌍</h3>
+<h3 align="center">🌍 <a href="https://shivam-raj.appwrite.network">Check out my website</a> 🌍</h3>
 
 
 ---
