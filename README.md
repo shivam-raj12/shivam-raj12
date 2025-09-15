@@ -44,7 +44,7 @@ Collaborating on projects that make a difference and leveraging innovative solut
 | Android Studio | Figma | GitHub | Postman |
 
 ## Backend Services
-| ![Firebase](https://skillicons.dev/icons?i=firebase) | ![Supabase](https://skillicons.dev/icons?i=supabase) | <img src="https://github.com/shivam-raj12/skill-icons/blob/patch-1/icons/Appwrite.svg" alt="Logo" width="48" height="48" /> |
+| ![Firebase](https://skillicons.dev/icons?i=firebase) | ![Supabase](https://skillicons.dev/icons?i=supabase) | ![Appwrite](https://skills.syvixor.com/api/icons?i=appwrite) |
 |:---:|:---:|:---:|
 | Firebase | Supabase | Appwrite |
 
